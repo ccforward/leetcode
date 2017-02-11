@@ -11,3 +11,4 @@ JavaScript Solutions for Leetcode Problems
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [JavaScript](./algorithms/roman-to-integer.js)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [JavaScript](./algorithms/longest-common-prefix.js)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-arentheses/)| [JavaScript](./algorithms/valid-arentheses.js)|Easy|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [JavaScript](./algorithms/remove-duplicates-from-sorted-array.js)|Easy|
